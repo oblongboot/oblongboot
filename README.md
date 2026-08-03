@@ -6,4 +6,4 @@
 ---
 
 ### website
-![oblongboot.dev](https://oblongboot.dev)]
+![oblongboot.dev](https://oblongboot.dev)
